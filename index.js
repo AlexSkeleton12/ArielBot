@@ -2,7 +2,7 @@ const discord = require('discord.js');
 const open = require('open');
 const bot = new discord.Client();
 const ytdl = require('ytdl-core');
-const token = 'NzM1MjE2NzAwNDY2NjU5MzQ5.XxdDOA.E0SXSarSXsLVFqd0L1AouJ8Wq9A';
+const token = '<REDACTED>';
 
 const prefix = '.';
 
